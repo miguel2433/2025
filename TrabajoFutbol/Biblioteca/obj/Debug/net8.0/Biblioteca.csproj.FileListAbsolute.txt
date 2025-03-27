@@ -1,0 +1,12 @@
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+e:\2025_6°7°\ChengLeonardo\test\2025\TrabajoFutbol\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
