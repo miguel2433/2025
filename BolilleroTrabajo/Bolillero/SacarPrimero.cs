@@ -3,17 +3,11 @@ namespace Bolillero
     public class SacarPrimero : ILogica
     {
 
-        public int[] SacarBolilla(int cantidad, int rango)
+        public List<int> SacarBolilla(BolilleroClase bolillero, int cantidadBolillasASacarEnLaJugada)
         {
-            if(!verification.comparacionNumeroMenor(cantidad,rango)){
-                throw new Exception("las bolillas creadads son mayores a las del bolillero");
-            }
-            int[] resultado = new int[cantidad];
-            for(int i = 0; i <= cantidad; i++)
-            {
-                resultado[i] =  i + 1;
-            }
-            return resultado;
+        List<int> BolillasSacadas = bolillero.bolillas.Take(cantidadBolillasASacarEnLaJugada).ToList();
+
+        return BolillasSacadas;
         }
     }
 }

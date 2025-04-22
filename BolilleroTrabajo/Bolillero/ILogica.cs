@@ -3,5 +3,5 @@ namespace Bolillero;
 
 public interface ILogica
 {
-    public int[] SacarBolilla(int cantidad, int rango);
+    public List<int> SacarBolilla(BolilleroClase bolillero, int cantidadBolillasASacarEnLaJugada);
 }

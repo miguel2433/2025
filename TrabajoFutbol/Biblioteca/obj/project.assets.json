@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lab15-PC01\\.nuget\\packages\\": {}
+    "C:\\Users\\gol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\2025_6°7°\\ChengLeonardo\\test\\2025\\TrabajoFutbol\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\gol\\Desktop\\Visual Studio Code\\2025\\TrabajoFutbol\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "e:\\2025_6°7°\\ChengLeonardo\\test\\2025\\TrabajoFutbol\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-      "outputPath": "e:\\2025_6°7°\\ChengLeonardo\\test\\2025\\TrabajoFutbol\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\gol\\Desktop\\Visual Studio Code\\2025\\TrabajoFutbol\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\gol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gol\\Desktop\\Visual Studio Code\\2025\\TrabajoFutbol\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

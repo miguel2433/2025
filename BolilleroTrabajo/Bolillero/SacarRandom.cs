@@ -3,15 +3,20 @@ namespace Bolillero;
 
 public class SacarRandom : ILogica
 {
-    public int[] SacarBolilla(int cantidad, int rango)
+    public List<int> SacarBolilla(BolilleroClase bolillero, int cantidadBolillasASacarEnLaJugada)
     {
-        Random random = new Random();
+        List<int> bolillasDisponibles = bolillero.bolillas.ToList();
+        List<int> bolillasSacadas = new();
+        Random rnd = new();
 
-        int[] resultado = new int[cantidad];
-        for(int i = 0; i <= cantidad; i++)
+        for (int i = 0; i < cantidadBolillasASacarEnLaJugada && bolillasDisponibles.Count > 0; i++)
         {
-            resultado[i] = random.Next(1, rango);
+            int index = rnd.Next(0, bolillasDisponibles.Count);
+            int bolillaSacada = bolillasDisponibles[index];
+            bolillasSacadas.Add(bolillaSacada);
+            bolillasDisponibles.RemoveAt(index); 
         }
-        return resultado;
+
+        return bolillasSacadas;
     }
 }
